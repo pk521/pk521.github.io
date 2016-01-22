@@ -1,0 +1,12 @@
+body,td,th { font-size: 12px; }
+body { font-size: 12px; font: 75%/150% verdana,宋体; color: #FFF; background:url(30ps_beijing.jpg) top center no-repeat #000000; margin:0px;}
+img{border:0px;}
+a { font-size: 12px; color:#FFFF33; }
+a:link { text-decoration: none;}
+a:visited { text-decoration: none; color: #FFFF33; }
+a:hover { text-decoration: none; color: #FF0000; text-decoration:underline;}
+a:active { text-decoration: none; color: #FF0000;}
+ul {  margin:0 0 0 0; padding: 0; list-style: none; }
+
+
+.main { margin:0 auto; width:920px; overflow:hidden;}
